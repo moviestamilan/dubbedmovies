@@ -174,13 +174,6 @@ right: 40px;
 
 @media screen and (max-width: 400px){
 
-.fa-solid{
-	position: absolute;
-	top: 74px;
-	right: 50px;
-
-	margin-right: 10px;
-}
 .search{
 	width:90%;
 }
