@@ -33,37 +33,37 @@ const App = () => {
      <span>
                 <First src='img/thegrayman.jpg'
          title='The Gray Man (2022) HD 720p Tamil Dubbed Movie Watch Online'  
-         href='http://vidmx.xyz/zembed-resbvsnuti6l.html'
+         href='https://dulink.in/RKcV'
      
           />
           <First src='img/anythingspossible.jpg'
          title='Anything’s Possible (2022) Tamil Dubbed Movie HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-pazn0xtt6pzw.html'
+         href='https://dulink.in/8GbU'
      
           />
           <First src='img/jurassic.jpg'
          title='Jurassic World Dominion (2022) Tamil Dubbed Movie HQ HDRip 720p Watch Online'  
-         href='http://vidmx.xyz/embed-sbu6plu7xyo9.html'
+         href='https://dulink.in/HsO59'
      
           />
           <First src='img/shoorveer.jpg'
          title='Shoorveer – S01 (2022) Tamil Dubbed Series HQ HDRip 720p Watch Online'  
-         href='http://vidmx.xyz/embed-wqn3up7677md.html'
+         href='https://dulink.in/IPeh'
      
           />
           <First src='img/thorloveandthunder.jpg'
          title='Thor: Love and Thunder (2022) Tamil Dubbed Movie HDCAMRip 720p Watch Online'  
-         href='http://vidmx.xyz/embed-0q9dtqv8dmun.html'
+         href='https://dulink.in/MtDz'
      
           />
           <First src='img/persuasion.jpg'
          title='Persuasion (2022) Tamil Dubbed Movie HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-xcqyplkax11m.html'
+         href='https://dulink.in/TrhI'
      
           />
           <First src='img/residentevil.jpg'
          title='Resident Evil – S01 (2022) Tamil Dubbed Series HD 720p Watch Online'  
-         href='http://vidmx.xyz/embed-nhl852dwhhc0.html'
+         href='https://dulink.in/1gTEY'
      
           />
 
